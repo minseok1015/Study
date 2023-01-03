@@ -1,2 +1,5 @@
-# Study
-공부했던 지식들 기록해놓기
+* Nginx란 무엇인가
+
+
+#Frontend
+
