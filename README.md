@@ -1,5 +1,6 @@
-* Nginx란 무엇인가
+* Nginx란?
+  * 로드밸런싱
+  * 프록시
 
 
-#Frontend
 
